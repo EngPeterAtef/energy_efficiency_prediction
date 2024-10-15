@@ -10,6 +10,7 @@ from evaluation import *
 import config
 import mlflow
 
+
 def main():
     mlflow.start_run()
     # Load and explore data
@@ -39,7 +40,7 @@ def main():
     mlflow.end_run()
     # Save the model
     save_model(trained_model)
-    
-    
+
+
 if __name__ == "__main__":
     main()
