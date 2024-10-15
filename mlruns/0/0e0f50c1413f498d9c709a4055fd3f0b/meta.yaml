@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/0e0f50c1413f498d9c709a4055fd3f0b/artifacts
+end_time: 1728987717169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e0f50c1413f498d9c709a4055fd3f0b
+run_name: defiant-jay-503
+run_uuid: 0e0f50c1413f498d9c709a4055fd3f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728987716271
+status: 3
+tags: []
+user_id: IT

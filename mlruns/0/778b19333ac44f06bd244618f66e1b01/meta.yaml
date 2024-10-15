@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/778b19333ac44f06bd244618f66e1b01/artifacts
+end_time: 1728987204220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 778b19333ac44f06bd244618f66e1b01
+run_name: stately-flea-320
+run_uuid: 778b19333ac44f06bd244618f66e1b01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728987203371
+status: 3
+tags: []
+user_id: IT

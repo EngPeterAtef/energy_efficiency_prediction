@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/6b129ad3f06c43d69846741d810cbebb/artifacts
+end_time: 1728987647074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b129ad3f06c43d69846741d810cbebb
+run_name: bustling-wolf-996
+run_uuid: 6b129ad3f06c43d69846741d810cbebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728987646128
+status: 3
+tags: []
+user_id: IT

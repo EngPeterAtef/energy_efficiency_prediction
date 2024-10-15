@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/e82d20b2f7994f638213f07f1c841f78/artifacts
+end_time: 1728983743280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e82d20b2f7994f638213f07f1c841f78
+run_name: illustrious-colt-601
+run_uuid: e82d20b2f7994f638213f07f1c841f78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728983743100
+status: 3
+tags: []
+user_id: IT

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/d74bb42bd670448599c84f4d21d2ce1f/artifacts
+end_time: 1728987476934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d74bb42bd670448599c84f4d21d2ce1f
+run_name: popular-fly-681
+run_uuid: d74bb42bd670448599c84f4d21d2ce1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728987476011
+status: 3
+tags: []
+user_id: IT

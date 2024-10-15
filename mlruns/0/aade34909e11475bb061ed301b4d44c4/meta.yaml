@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/aade34909e11475bb061ed301b4d44c4/artifacts
+end_time: 1728983848168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aade34909e11475bb061ed301b4d44c4
+run_name: invincible-stag-818
+run_uuid: aade34909e11475bb061ed301b4d44c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728983848008
+status: 3
+tags: []
+user_id: IT

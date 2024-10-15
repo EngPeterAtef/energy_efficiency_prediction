@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/c16e8a4dcedf44e6b55ac0b84e57332c/artifacts
+end_time: 1728987305049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c16e8a4dcedf44e6b55ac0b84e57332c
+run_name: honorable-moth-740
+run_uuid: c16e8a4dcedf44e6b55ac0b84e57332c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728987304099
+status: 3
+tags: []
+user_id: IT

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/e11dd95f995f4ef0acf966c22ddf6b7e/artifacts
+end_time: 1728986320760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e11dd95f995f4ef0acf966c22ddf6b7e
+run_name: adventurous-mule-622
+run_uuid: e11dd95f995f4ef0acf966c22ddf6b7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728986320012
+status: 3
+tags: []
+user_id: IT

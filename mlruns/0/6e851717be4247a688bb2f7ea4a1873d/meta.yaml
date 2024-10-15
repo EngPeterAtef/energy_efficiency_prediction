@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/6e851717be4247a688bb2f7ea4a1873d/artifacts
+end_time: 1728984264978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e851717be4247a688bb2f7ea4a1873d
+run_name: calm-yak-312
+run_uuid: 6e851717be4247a688bb2f7ea4a1873d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728984264814
+status: 3
+tags: []
+user_id: IT

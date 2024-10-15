@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/35dc0227ca114b1a9519ac7f25ec2984/artifacts
+end_time: 1728986498944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35dc0227ca114b1a9519ac7f25ec2984
+run_name: receptive-mule-924
+run_uuid: 35dc0227ca114b1a9519ac7f25ec2984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728986498053
+status: 3
+tags: []
+user_id: IT

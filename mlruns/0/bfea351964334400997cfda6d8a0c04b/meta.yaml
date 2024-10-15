@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/bfea351964334400997cfda6d8a0c04b/artifacts
+end_time: 1728984010918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfea351964334400997cfda6d8a0c04b
+run_name: smiling-rook-509
+run_uuid: bfea351964334400997cfda6d8a0c04b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728984010761
+status: 3
+tags: []
+user_id: IT

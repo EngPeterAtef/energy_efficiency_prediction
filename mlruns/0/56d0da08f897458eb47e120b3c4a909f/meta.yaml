@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/56d0da08f897458eb47e120b3c4a909f/artifacts
+end_time: 1728986593802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56d0da08f897458eb47e120b3c4a909f
+run_name: crawling-lark-343
+run_uuid: 56d0da08f897458eb47e120b3c4a909f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728986592866
+status: 3
+tags: []
+user_id: IT

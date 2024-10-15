@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/b01eddc28f7c44ccad9283f228edca9a/artifacts
+end_time: 1728986417587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b01eddc28f7c44ccad9283f228edca9a
+run_name: luminous-duck-440
+run_uuid: b01eddc28f7c44ccad9283f228edca9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728986416689
+status: 3
+tags: []
+user_id: IT
