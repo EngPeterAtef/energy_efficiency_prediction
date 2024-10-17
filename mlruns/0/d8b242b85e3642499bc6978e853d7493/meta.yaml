@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/d8b242b85e3642499bc6978e853d7493/artifacts
+end_time: 1729165063838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8b242b85e3642499bc6978e853d7493
+run_name: unequaled-rat-720
+run_uuid: d8b242b85e3642499bc6978e853d7493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729165060977
+status: 3
+tags: []
+user_id: IT

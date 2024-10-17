@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/3c37a67bc74a45daa072b9bf69041c24/artifacts
+end_time: 1729165302692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c37a67bc74a45daa072b9bf69041c24
+run_name: silent-fly-590
+run_uuid: 3c37a67bc74a45daa072b9bf69041c24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729165301789
+status: 3
+tags: []
+user_id: IT

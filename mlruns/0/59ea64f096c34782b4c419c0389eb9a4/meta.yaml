@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/training/week2/code/mlruns/0/59ea64f096c34782b4c419c0389eb9a4/artifacts
+end_time: 1729165386516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59ea64f096c34782b4c419c0389eb9a4
+run_name: intelligent-colt-697
+run_uuid: 59ea64f096c34782b4c419c0389eb9a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729165385296
+status: 3
+tags: []
+user_id: IT
